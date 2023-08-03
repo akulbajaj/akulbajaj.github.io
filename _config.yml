@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Akul Bajaj # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Driven Decision Maker
   <br><br>
-  Second description 
+  Armed with a recently completed Master's degree and a robust three-year journey mastering machine learning, my resolute aim is to secure a pivotal role in the realm of data science. As a former data scientist intern at the Metropolitan Transportation Commission, I have experienced firsthand the dynamic and impactful nature of the field. My intrigue lies at the nexus of deep learning, NLP, and computer vision, and I am fervently drawn to the prospect of applying my expertise to tangible challenges.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/akul-bajaj/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
