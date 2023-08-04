@@ -12,3 +12,48 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+# Navigation Links
+nav_links:
+  - text: Home
+    url: /
+  - text: Education
+    url: /education
+  - text: Professional Experience
+    url: /professional-experience
+  - text: Projects
+    url: /projects
+  - text: Skills and Achievements
+    url: /skills-and-achievements
+  - text: Contact Me
+    url: /contact
+
+# Education Page
+education:
+  title: Education
+  content: >
+    Here, you can describe your academic journey, including your Master's degree, relevant coursework, and academic achievements.
+
+# Professional Experience Page
+professional_experience:
+  title: Professional Experience
+  content: >
+    Describe your roles and responsibilities as a data scientist intern at the Metropolitan Transportation Commission, along with any other relevant professional experiences.
+
+# Projects Page
+projects:
+  title: Projects
+  content: >
+    Showcase your data science projects here, providing project names, descriptions, and links to GitHub repositories or demos.
+
+# Skills and Achievements Page
+skills_and_achievements:
+  title: Skills and Achievements
+  content: >
+    Highlight your data science skills, achievements, certifications, and any notable accomplishments.
+
+# Contact Me Page
+contact:
+  title: Contact Me
+  content: >
+    Provide a contact form, your email address, links to professional social media profiles, and an invitation for collaboration and networking.
